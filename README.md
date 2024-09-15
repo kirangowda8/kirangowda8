@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirangowda8
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning BlockChain and MicroServices
+- 🌱 I’m currently learning MicroServices and FrontEnd
 - 💞️ I’m looking to collaborate on any open source projects
 - 📫 How to reach me kirankumarkvgowda@gmail.com
 
